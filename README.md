@@ -4,9 +4,9 @@
 
 若在科研论文、项目工程中使用了该中文歌曲歌词语料库/数据集，欢迎引用：
 
-> 蒋彦廷,张健铖.基于统计分析的“中国风”歌曲词汇研究[J].成都理工大学学报(社会科学版),2018,26(05):68-75.
+> 蒋彦廷,张健铖.基于统计分析的“中国风”歌曲词汇研究[J]. 成都理工大学学报(社会科学版), 2018, 26(05):68-75.
 
-> Jiang Yanting, Zhang Jiancheng. Study of “Chinese Wind” Lyrics Based on Statistical Analysis[J]. Journal of Chengdu University of Technology(Social Sciences),2018,26(05):68-75.
+> Jiang Yanting, Zhang Jiancheng. Study of “Chinese Wind” Lyrics Based on Statistical Analysis[J]. Journal of Chengdu University of Technology(Social Sciences), 2018, 26(05):68-75.
 
 
 
